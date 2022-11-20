@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should take snapshot with default mode 1`] = `
+<header
+  class="makeStyles-header-4"
+>
+  <h2
+    class="MuiTypography-root makeStyles-title-5 MuiTypography-h2"
+  >
+    Order List
+  </h2>
+</header>
+`;
+
+exports[`<Header /> should take snapshot with italian mode 1`] = `
+<header
+  class="makeStyles-header-1"
+>
+  <h2
+    class="MuiTypography-root makeStyles-title-2 makeStyles-italian-3 MuiTypography-h2"
+  >
+    Order List
+  </h2>
+</header>
+`;

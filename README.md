@@ -1,2 +1,19 @@
-# tresende-ifood-software-engineer-2021
-this is just a backup of my 2021 ifood software engineer test, this test is no longer applied and is invalid 😁
+## Demo
+![enter image description here](./docs/demo.gif)
+
+### features
+
+ - Order Filter
+ - Client Filter
+ - Detail Popup
+ - Italian theme 😁 
+
+## Architecture
+
+![enter image description here](./docs/hld_demo.png)
+
+## Setup 
+ 
+ - Install node 12
+ - Run MVN in services folder
+ - Run NPM Install && NPM Run in frontend folder
